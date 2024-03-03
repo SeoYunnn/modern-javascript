@@ -16,3 +16,4 @@
 - [Chapter 03 자바스크립트 개발 환경과 실행 방법](https://leeseoyun.notion.site/Chapter-3-be2b0a1d3c2241dc81c85fa3f220c588?pvs=4)
 - [Chapter 04 변수](https://leeseoyun.notion.site/Chapter-4-1e3679526b8b465090ce2b6ee8c0d19a?pvs=4)
 - [Chapter 05 표현식과 문](https://leeseoyun.notion.site/Chapter-5-54a9dbbc5ec040fdb3b10297258408c2?pvs=4)
+- [Chapter 06 데이터 타입](https://leeseoyun.notion.site/Chapter-06-d4e36b6e1e734851b1e4a3c3faab7c99?pvs=4)
